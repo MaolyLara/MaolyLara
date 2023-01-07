@@ -1,5 +1,5 @@
-### Olá!, Eu sou a Maoly Lara. [PR - BR]
-### Hola, Yo soy Maoly Lara. [ES]
+### Olá!, Eu sou a Maoly Lara.
+
 
 
 <div align="Center">
