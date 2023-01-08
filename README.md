@@ -1,12 +1,23 @@
-### Olá!, Eu sou a Maoly Lara.
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MaolyLara/1ce62d46aaa09e360f5b2b0cbab33340/raw/9b4fc23c25320e92e67904f73d9e8335897fc71b/gitHubCard.svg" />
 
+<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Maoly Lara.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaolyLara&color=ff69b4" alt="Profile views" /> </p>
 
+- 👩🏻‍💻Full Stack Software Developer Jr. | Data Analytics Jr| Quality Assurance (QA) Jr.  
+
+- 💬 Pergunte-me sobre **Python | SQL | JavaScript | HTML | CSS**
+
+<br>
 
 <div align="Center">
   <a href="https://github.com/MaolyLara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaolyLara&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaolyLara&layout=compact&langs&theme=synthwave"/>
 </div>
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="Center" alt="Mao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -15,7 +26,7 @@
   <img align="Center" alt="Mao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+## 🛎 **Contact**
 
 <div>
    <a href="https://www.linkedin.com/in/maolylara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin Maoly Lara"></a>
