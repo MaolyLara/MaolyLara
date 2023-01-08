@@ -36,13 +36,14 @@
    <a href="https://twitter.com/LARAMAOLY" target="_blank"><img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Maoly Lara"></a>
     <a href="
 https://wa.me/+5292988441399?text=MaolyLara" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Maoly Lara"></a>
-   
-</div>
-
+  
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MaolyLara/count.svg" /></p>
 
 
-![snake gif](https://github.com/MaolyLara/MaolyLara/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/MaolyLara/MaolyLara/blob/output/github-contribution-grid-snake.svg)
+   
+</div>
 
-  
+
+
