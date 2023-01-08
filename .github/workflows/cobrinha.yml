@@ -1,6 +1,6 @@
-nome : principal
+nome : cobrinha
 
-em : [pressione]
+em : [push]
 
 trabalhos :
   teste :
@@ -23,14 +23,14 @@ trabalhos :
     passos :
       - usa : ações/checkout@v2
 
-      - nome : atualize o action.yml para usar a imagem do Dockerfile local
+      - nome : cobrinha.yml
         executar : |
           sed -i "s/image: .*/image: Dockerfile/" action.yml
       - nome : gerar-snake-game-from-github-contribution-grid
         id : gerar-cobra
         utiliza : ./
         com :
-          github_user_name : platane
+          github_user_name : MaolyLara
           saídas : |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
