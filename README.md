@@ -40,7 +40,7 @@ https://wa.me/+5292988441399?text=MaolyLara" target="_blank"><img src="https://i
 </div>
 
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MaolyLara/count.svg" /></p>
 
 
 ![snake gif](https://github.com/MaolyLara/MaolyLara/blob/output/github-contribution-grid-snake.svg)
