@@ -45,5 +45,8 @@ https://wa.me/+5292988441399?text=MaolyLara" target="_blank"><img src="https://i
    
 </div>
 
+![](https://github.com/MaolyLara/MaolyLara/raw/output/github-contribution-grid-snake.svg)
+
+
 
 
