@@ -41,11 +41,11 @@ https://wa.me/+5292988441399?text=MaolyLara" target="_blank"><img src="https://i
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MaolyLara/count.svg" /></p>
 
 
-   ![Snake animation](https://github.com/MaolyLara/MaolyLara/blob/output/github-contribution-grid-snake.svg)
+   ![snake gif](https://github.com/MaolyLara/MaolyLara/blob/output/github-contribution-grid-snake.gif)
    
 </div>
 
-![](https://github.com/MaolyLara/MaolyLara/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
