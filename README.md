@@ -35,7 +35,7 @@
    <a href="https://www.instagram.com/laramaoly/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram Maoly Lara"></a>
    <a href="https://twitter.com/LARAMAOLY" target="_blank"><img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Maoly Lara"></a>
     <a href="
-https://wa.me/+5292988441399?text=MaolyLara" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Maoly Lara"></a>
+https://wa.me/5592988441399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Maoly Lara"></a>
   
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MaolyLara/count.svg" /></p>
