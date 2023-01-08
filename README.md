@@ -41,8 +41,7 @@ https://wa.me/+5292988441399?text=MaolyLara" target="_blank"><img src="https://i
  
 <br><br>
   
-![Snake animation](https://github.com/MaolyLara/MaolyLara/actions/workflows/cobrinha.yml)
-  
+![Snake animation](https://github.com/MaolyLara/MaolyLara/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **MaolyLara/MaolyLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
