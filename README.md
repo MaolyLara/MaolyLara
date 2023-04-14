@@ -3,8 +3,7 @@
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Maoly Lara.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaolyLara&color=ff69b4" alt="Profile views" /> </p>
 
-- 👩🏻‍💻Full Stack Software Developer Jr. | Data Analytics Jr| Quality Assurance (QA) Jr.  
-
+- 👩🏻‍💻 Quality Assurance (QA) Jr. | Full Stack Software Developer Jr. | 
 - 💬 Pergunte-me sobre **Python | SQL | JavaScript | HTML | CSS**
 
 <br>
